@@ -1,0 +1,58 @@
+# Site settings
+name: AREA Workshop Series
+email:
+author: Rafael C. Cardoso, Angelo Ferrando
+
+keywords: autonomous systems, robotics, artificial intelligence, formal verification, sensor systems, programming, formal modelling, software engineering, machine learning
+description: Workshop Series on Agents and Robots for reliable Engineered Autonomy (AREA)
+
+# Only use this if you are serving your site via Github Pages
+#github:
+
+#url:  "http://localhost:4000"
+#images: "http://localhost:4000/images/"
+
+url: "https://areaworkshop.github.io"
+images: "https://areaworkshop.github.io/images/"
+
+
+header: no
+header_sm: images/ashton-small.png
+header_med: images/ashton-med.png
+header_large: images/ashton-large.png
+header_xl: images/ashton-xl-desat.png
+
+include: [_events]
+
+# Exclude our ruby stuff
+exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
+
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+destination: _site
+
+collections:
+  events:
+    output: true
+  projects:
+    output: false
+  projects-previous:
+    output: false
+# Compress our Css
+#sass:
+#    style: :compressed
+
+permalink: /blog/:year/:title
+
+#Google API key
+#google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
+
+#### SEO Stuff
+
+# Twitter Cards
+
+

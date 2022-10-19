@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/404.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/banner.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/configuration.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/deploy.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/footer.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/grid.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/image-optim.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/installation.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/nav.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/rakefile.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/sass.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/seo.html</loc>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/documentation/use.html</loc>
+    
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</urlset>
