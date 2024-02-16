@@ -15,7 +15,7 @@ image: https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png
 
 ## Next edition
 
-TBA
+<a href="https://areaworkshop.github.io/AREA2024/" target="_blank">AREA2024</a>
 
 ## Past editions
 
