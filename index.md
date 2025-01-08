@@ -15,11 +15,12 @@ image: https://areaworkshop.github.io/AREA2023/images/logos/area_logo_1.png
 
 ## Next edition
 
-<a href="https://areaworkshop.github.io/AREA2024/">AREA2024</a>
+TBA
 
 ## Past editions
 
 <ul>
+<li><a href="https://areaworkshop.github.io/AREA2024/">AREA2024</a></li>  
 <li><a href="https://areaworkshop.github.io/AREA2023/">AREA2023</a></li>  
 <li><a href="https://areaworkshop.github.io/AREA2022/">AREA2022</a></li>
 <li><a href="https://area2020.github.io/">AREA2020</a></li>
